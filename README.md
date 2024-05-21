@@ -9,3 +9,4 @@ Recordings:
 Surprisingly, the ccars driving overhead weren't picked up in the recordings even when I tried to get my phone to so I will have to get some and add them in.
 
 A very rough draft including most of the recordings. This just has the most imnportant aspeccts with very few if any cuts. So it has the cconstruction, the bus, and many nature sections.
+The Audacity fille containg the recordings plus edited versions to use in the accctual soundscape.
